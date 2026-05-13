@@ -1,6 +1,6 @@
 # Iris Classifier Project
 
-A beginner-friendly machine learning project using the Iris dataset to build a classification model.
+
 
 ## Project Structure
 
